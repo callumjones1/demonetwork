@@ -3,24 +3,24 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "none",
-    "link": "none",
-    "text": "cal"
+    "file": "",
+    "link": "",
+    "text": "C Jones"
   },
   "text": {
     "more": "test",
-    "intro": "test",
-    "title": "test"
+    "intro": "Testtest",
+    "title": "1980-2000"
   },
   "legend": {
-    "edgeLabel": "edge",
-    "colorLabel": "mod",
-    "nodeLabel": "node"
+    "edgeLabel": "connection",
+    "colorLabel": "type",
+    "nodeLabel": "org"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "groupSelectorAttribute": "ideology_classification",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
